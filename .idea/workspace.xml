@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d934267-620e-4c97-ad8b-e7728a5db9ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4d934267-620e-4c97-ad8b-e7728a5db9ec" name="Changes" comment="Dependencias do ProjetoFinal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +25,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2i7QJItWJi30VE7yageBQC3wnwc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Escola/projetos.git/ClubeDeFutebol",
+    "last_opened_file_path": "C:/Users/Escola/IdeaProjects/ProjetoFinal/maratona",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +72,7 @@
       <workItem from="1718839064651" duration="41000" />
       <workItem from="1718842688150" duration="4530000" />
       <workItem from="1719353046881" duration="967000" />
+      <workItem from="1719356276166" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro commit do projeto final">
       <option name="closed" value="true" />
