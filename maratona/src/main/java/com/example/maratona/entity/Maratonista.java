@@ -22,12 +22,18 @@ public class Maratonista {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO )
     private Long id;
+
     private int idade;
+
     private String grupoSanguineo;
+
     private String nome;
-    private int numeroCelular;
-    private int numeroEmergencia;
-    private int rg;
+
+
+    private String numeroCelular;
+    private String numeroEmergencia;
+    private String rg;
+
     private String sobrenome;
 
     @OneToMany(mappedBy = "maratonista")

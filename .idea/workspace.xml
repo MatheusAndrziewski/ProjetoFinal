@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d934267-620e-4c97-ad8b-e7728a5db9ec" name="Changes" comment="Dependencias do ProjetoFinal" />
+    <list default="true" id="4d934267-620e-4c97-ad8b-e7728a5db9ec" name="Changes" comment="Dependencias do ProjetoFinal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +75,7 @@
       <workItem from="1718842688150" duration="4530000" />
       <workItem from="1719353046881" duration="967000" />
       <workItem from="1719356276166" duration="46000" />
+      <workItem from="1719439661976" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro commit do projeto final">
       <option name="closed" value="true" />
