@@ -1,5 +1,6 @@
 package com.example.maratona.entity;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Size;
 import lombok.AllArgsConstructor;
@@ -21,7 +22,7 @@ public class Maratona {
 @GeneratedValue(strategy = GenerationType.AUTO)
 private Long id;
 private String nome;
-
+@JsonBackReference
 @OneToMany(mappedBy = "maratona")
 private List<Circuito> circuitos;
 

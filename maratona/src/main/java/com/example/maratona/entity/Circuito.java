@@ -19,9 +19,6 @@ public class Circuito {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-
-    @Min(value = 100, message = "Você pode correr 100 metros" )
-    @Max(value = 200, message = "Você pode correr 200 metros")
     private int distancia;
 
     private Categoria categoria;
